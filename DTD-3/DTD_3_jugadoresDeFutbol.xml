@@ -6,8 +6,8 @@
 <!ATTLIST jugador codigo ID #REQUIRED>
 ]>
 <jugadoresFutbol>
-  <jugador nombre="AlfredoDiStefano" codigo="uno"/>
-  <jugador nombre="EdisonArantesdoNascimento_Pele" codigo="dos"/>
-  <jugador nombre="DiegoArmandoMaradona" codigo="tres"/>
-  <jugador nombre="JohanCruyff" codigo="cuatro"/>
+  <jugador nombre="AlfredoDiStefano" codigo="c1"/>
+  <jugador nombre="EdisonArantesdoNascimento_Pele" codigo="c2"/>
+  <jugador nombre="DiegoArmandoMaradona" codigo="c3"/>
+  <jugador nombre="JohanCruyff" codigo="c4"/>
 </jugadoresFutbol>
