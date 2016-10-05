@@ -13,6 +13,6 @@
   <jugador nombre="EdisonArantesdoNascimento" codigo="ean"/>
   <jugador nombre="DiegoArmandoMaradona" codigo="dam"/>
   <jugador nombre="JohanCruyff" codigo="jc"/>
-  <equipo nombre="SocietàSportivaCalcioNapoli" jugadores="dam"/>
-  <equipo nombre="FutbolClubBarcelona" jugadores="jc dam"/>
+  <equipo nombre="Società Sportiva Calcio Napoli" jugadores="dam"/>
+  <equipo nombre="Futbol Club Barcelona" jugadores="jc dam"/>
 </futbol>
